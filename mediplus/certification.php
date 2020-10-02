@@ -1,4 +1,4 @@
-
+<?php ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -55,7 +55,7 @@
 	        <ul class="navbar-nav nav ml-auto">
                 <li class="nav-item"><a href="index.php" class="nav-link"><span>Home</span></a></li>
                 <li class="nav-item"><a href="index.php#cv" class="nav-link"><span>Curriculum Vitae</span></a></li>
-                <li class="nav-item"><a href="certification.html" class="nav-link"><span>Certifications</span></a></li>
+                <li class="nav-item"><a href="certification.php" class="nav-link"><span>Certifications</span></a></li>
                 <li class="nav-item"><a href="index.php#cv" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>

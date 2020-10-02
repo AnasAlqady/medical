@@ -1,3 +1,9 @@
+<?php
+$a=1;
+$b=2;
+$c=3;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -59,7 +65,7 @@
 	          <li class="nav-item"><a href="index.php#doctor-section" class="nav-link"><span>Doctors</span></a></li>
 	          <li class="nav-item"><a href="index.php#blog-section" class="nav-link"><span>Blog</span></a></li>
 	          <li class="nav-item"><a href="index.php#contact-section" class="nav-link"><span>Contact</span></a></li>
-	          <li class="nav-item cta mr-md-2"><a href="appointment.html" class="nav-link">Appointment</a></li>
+	          <li class="nav-item cta mr-md-2"><a href="appointment.php" class="nav-link">Appointment</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -221,7 +227,7 @@
         <div class="row d-flex">
           <div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="certification.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+              <a href="certification.php" class="block-20" style="background-image: url('images/image_1.jpg');">
               </a>
               <div class="text d-block">
               	<div class="meta mb-3">
@@ -231,14 +237,14 @@
                 </div>
                 <h3 class="heading"><a href="#">Scary Thing That You Don’t Get Enough Sleep</a></h3>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p><a href="certification.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                <p><a href="certification.php" class="btn btn-primary py-2 px-3">Read more</a></p>
               </div>
             </div>
         	</div>
 
         	<div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="certification.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+              <a href="certification.php" class="block-20" style="background-image: url('images/image_2.jpg');">
               </a>
               <div class="text d-block">
               	<div class="meta mb-3">
@@ -248,14 +254,14 @@
                 </div>
                 <h3 class="heading"><a href="#">Scary Thing That You Don’t Get Enough Sleep</a></h3>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p><a href="certification.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                <p><a href="certification.php" class="btn btn-primary py-2 px-3">Read more</a></p>
               </div>
             </div>
         	</div>
 
         	<div class="col-md-4 ftco-animate">
             <div class="blog-entry">
-              <a href="certification.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+              <a href="certification.php" class="block-20" style="background-image: url('images/image_3.jpg');">
               </a>
               <div class="text d-block">
               	<div class="meta mb-3">
@@ -265,7 +271,7 @@
                 </div>
                 <h3 class="heading"><a href="#">Scary Thing That You Don’t Get Enough Sleep</a></h3>
                 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                <p><a href="certification.html" class="btn btn-primary py-2 px-3">Read more</a></p>
+                <p><a href="certification.php" class="btn btn-primary py-2 px-3">Read more</a></p>
               </div>
             </div>
         	</div>

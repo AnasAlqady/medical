@@ -59,7 +59,7 @@ $webdevolpment ="anas alqady" ;
 	        <ul class="navbar-nav nav ml-auto">
 	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
 	          <li class="nav-item"><a href="#cv" class="nav-link"><span>Curriculum Vitae</span></a></li>
-	          <li class="nav-item"><a href="certification.html" class="nav-link"><span>certifications</span></a></li>
+	          <li class="nav-item"><a href="certification.php" class="nav-link"><span>certifications</span></a></li>
 	          <li class="nav-item"><a href="#cv" class="nav-link"><span>Contact</span></a></li>
 	        </ul>
 	      </div>
